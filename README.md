@@ -10,3 +10,11 @@ Exercise assignments for the Udacity Natural Language Processing Nanodegree
 ## How NLP Pipeline work?
  ![NLP Stages](/readme_img/nlppip.png)
 
+### Text Processing
+![Text Proc I/O](/readme_img/tp.png)
+
+### Feature Extraction
+![Fe Extr I/O](/readme_img/fe.png)
+
+### Modeling
+![Modeling I/O](/readme_img/md.png)
