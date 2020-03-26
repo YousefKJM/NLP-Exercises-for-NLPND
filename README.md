@@ -18,3 +18,6 @@ Exercise assignments for the Udacity Natural Language Processing Nanodegree
 
 ### Modeling
 ![Modeling I/O](/readme_img/md.png)
+
+----
+
