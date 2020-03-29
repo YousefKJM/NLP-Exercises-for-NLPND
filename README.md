@@ -43,7 +43,7 @@ Exercise assignments for the Udacity Natural Language Processing Nanodegree
 ![stem & lemma](/readme_img/s&l.png)
 
 ## Summary
-##### <ins>This procedure convert a natural language sentence into a sequence of normalized tokens which can be use for further analysis.</ins>
+#### <ins>This procedure convert a natural language sentence into a sequence of normalized tokens which can be used for further analysis.</ins>
 ![summary](/readme_img/summary.png)
 
 
