@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Data
 
 Data files for exercises are included under `data/`, but some of the NLP libraries require additional data for performing tasks like 
-PoS tagging, lemmatization, etc. Specifically, `nltk` will throw an error if the required data is not installed. You can use the 
+PoS tagging, lemmatization, etc. Specifically, `nltk` (natural language toolkit) will throw an error if the required data is not installed. You can use the 
 following Python statement to open the NLTK downloader and select the desired package(s) to install:
 
 ```python
