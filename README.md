@@ -42,5 +42,9 @@ Exercise assignments for the Udacity Natural Language Processing Nanodegree
 ### Stemming & Lemmatization
 ![stem & lemma](/readme_img/s&l.png)
 
+## Summary
+![summary](/readme_img/summary.png)
+
+`This procedure convert a natural language sentence into a sequence of normalized tokens which you can use for further analysis.`
 
 ----
