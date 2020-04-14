@@ -28,3 +28,15 @@
   - [reasoning logic example](/img/rlogic_ex.png)
   ***
   - Once we have a text response, remaining task is to convert that text to speech. this is the speech synthesis or text to speech (TTS).
+
+---
+
+- VUI Application
+  - Can be found on cars!
+  - Dictation application
+  - Translation application
+  - Conversational AI technology
+    - Apple's Siri
+    - Microsoft Cortana
+    - Google Home
+    - Amazon Alexa on Eco
