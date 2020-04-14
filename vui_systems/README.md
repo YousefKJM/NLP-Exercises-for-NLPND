@@ -74,3 +74,24 @@
   - These conceptual models can be implemented with **probabilistic models** using machine learning algorithms
 
 ## Challenges in ASR
+
+##### Why is it so hard?
+
+- The first set of problems to solve is related to the audio signal itself, noise for instance, cars going by, clocks ticking, other people talking, microphone static, our ASR has to know which parts of the audio signal matter and which parts to discard.
+- Variability of pitch, Variability of volume. One speaker sounds different than another even when saying the same word. The pitch and loudness don't change the ground truth of which word was spoken. think of these differences as another kind of noise that needs to be filtered out.
+- Variability of words speed. Words spoken at different speeds need to be aligned and matched. It's up to the ASR to align the sequences of sound correctly.
+- Word boundaries, when we speak words run from one to the next without pause.
+- Spoken vs. Written language.
+- To summarize:
+
+  - Variability:
+    - Pitch
+    - Volume
+    - Speed
+  - Ambiguity
+    - Word boundaries
+    - Spelling
+    - Context
+      ![implement asr](img/asr_problems.png)
+
+## Signal Analysis
