@@ -30,7 +30,7 @@
   ***
 
   - Text input reasoned to text output: thinking part of our voice application, the reasoning logic.
-  - [reasoning logic example](img/rlogic_ex.png)
+    ![reasoning logic example](img/rlogic_ex.png)
 
   ***
 
