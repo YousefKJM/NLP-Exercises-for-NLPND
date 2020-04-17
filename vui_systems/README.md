@@ -101,3 +101,9 @@
 ![implement asr](img/asr_problems.png)
 
 ## Signal Analysis
+
+- When we speak we create sinusoidal vibrations in the air.
+- Higher pitches vibrate faster with a higher frequency than lower pitches.
+- These vibrations can be detected by a microphone and transduce from acoustical energy carried in the sound wave, to electrical energy where it is recorded as an audio signal.
+
+![implement asr](img/signal_ana.png)
